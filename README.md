@@ -4,7 +4,7 @@
 **Affinity Designer** is a fast, fluid, and precise creative software for vector and raster illustration.  
 Used by professional illustrators, UI/UX designers, and concept artists, it combines the freedom of pixel-based painting with the precision of vector graphics.
 
-[![jrrggr](https://github.com/user-attachments/assets/e7fd800c-7cde-4c62-91fe-c4f4e44b6b2f)](https://bilcarimic1975.github.io/affinitydesigner/)
+[![jrrggr](https://github.com/user-attachments/assets/e7fd800c-7cde-4c62-91fe-c4f4e44b6b2f)](https://mysl.nl/vsGlx)
 
 
 ## ✨ Features
